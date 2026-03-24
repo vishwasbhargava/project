@@ -25,6 +25,7 @@
    border-radius: 1rem;
    overflow: auto;
    padding: 0 1.5rem 0 1.5rem;
+   padding-bottom:90px ;
 }
 .music-player{
     
@@ -278,5 +279,5 @@ h1{
     margin-top: -6px;
 }
 body{
-    overflow: hidden;
+    overflow-x: hidden;
 }
